@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Mouadasel/Product_preview_card](https://github.com/Mouadasel/Product_preview_card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://mouadasel.github.io/Product_preview_card/](https://mouadasel.github.io/Product_preview_card/)
 
 ## My process
 
